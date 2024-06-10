@@ -8,4 +8,5 @@ Traditional Chinese Philosophy
 |earth🌏|🟨|∞ |torus | cosmos |Aether Force |atom | (θ; θ; 0) |
 |metal⚔️|⚪|○|3D electricity|gravity field |Weak Nuclear Force|neutrino | (sinθ, cosθ, θ) |
 |water💧|⬛|∞ |3D magnet|electromagnetic field|Electromagnetic Force| neutron  | (θ; θ; θ) |
- 
+   
+https://www.geogebra.org/3d/rbhmaxz8
